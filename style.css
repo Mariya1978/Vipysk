@@ -1,0 +1,47 @@
+body {
+    font-family: sans-serif;
+}
+
+.link-header{
+    position: absolute;
+    top: 15px;
+    left: 20px;
+    font-size: 20px;
+    color: brown;
+    text-decoration: none;
+    text-align: center;
+   
+    border-radius: 20px;
+    padding: 7px;
+}
+header{
+    background-image: linear-gradient(to left, rgb(153, 153, 194), white, rgb(153, 153, 194));
+    width: auto;
+    height: 50px;
+}
+nav{
+    margin-top: 30px;
+}
+.link-nav{
+    padding: 0 50px 0 0;
+    text-decoration: none;
+}
+h1{
+    text-align: center;
+    color: rgb(122, 197, 122);
+    font-size: 40px;
+}
+footer{
+    margin-top: 30px;
+    background-image: linear-gradient(to left, rgb(55, 55, 122), white, rgb(55, 55, 122));
+    height: 60px;
+}
+.social{
+    position: relative;
+    top: 6px;
+    padding: 10px;
+}
+div{
+    display: flex;
+    justify-content: center;
+}
